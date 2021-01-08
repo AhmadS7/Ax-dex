@@ -1,4 +1,4 @@
-### Hi there, Ax-Dex Here 👋
+### Hi there 👋 Ax-Dex Here 
 
 ## I'm a Full Stack Developer.
 

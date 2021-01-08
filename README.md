@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer.
 
 - 🚇 2021 Goals: Master React, Complete MERN Stack. 
-- 🛹 currently learning NextJS, NodeJS and Firebase.
+- 🛹 Currently learning: NextJS, NodeJS and Firebase.
 - ⚡ Fun fact: I'm a person who enjoys learning.
 
 

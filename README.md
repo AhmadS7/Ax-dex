@@ -1,6 +1,6 @@
 ### Hi there 👋 Ax-Dex Here.
 
-## I'm a Full Stack Developer.
+## I'm a Front-End Developer.
 
 - 🚇 2021 Goals: Master React, Complete MERN Stack. 
 - 🛹 Currently learning: NextJS, NodeJS and Firebase.
